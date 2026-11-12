@@ -1,0 +1,10 @@
+{
+  "name": "carousel-sim",
+  "private": true,
+  "type": "module",
+  "description": "Headless simulation of the 3D carousel (no browser needed). Used by tools/check.mjs --sim",
+  "dependencies": {
+    "jsdom": "^24.1.0",
+    "three-real": "npm:three@0.170.0"
+  }
+}
